@@ -36,7 +36,7 @@ In conclusion, our analysis leads us to the determination that New York emerges 
 # Video Solution
 [Video Demo](https://youtu.be/VYjG0QSOrVU)
 # Certificate
-![View]([Certificat.jpg](https://github.com/CS-1289/HPCC-Hackathon/blob/main/Certificate.jpg)https://github.com/CS-1289/HPCC-Hackathon/blob/main/Certificate.jpg)
+![View](https://github.com/CS-1289/HPCC-Hackathon/blob/main/Certificate.jpg)
 
 
 
